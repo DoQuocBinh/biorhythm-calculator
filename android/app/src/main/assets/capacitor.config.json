@@ -1,0 +1,6 @@
+{
+	"appId": "fgw.biorhythms",
+	"appName": "biorhythms",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
